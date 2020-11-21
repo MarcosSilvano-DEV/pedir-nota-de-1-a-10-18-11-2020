@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "pedir-nota-de-1-a-10-18-11-2020/1.0.0": {
+        "runtime": {
+          "pedir-nota-de-1-a-10-18-11-2020.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pedir-nota-de-1-a-10-18-11-2020/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
